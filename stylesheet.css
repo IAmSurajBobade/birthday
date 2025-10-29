@@ -13,7 +13,6 @@ body {
 }
 .peach {
 	background-color: #FFDAB9;
-	
 }
 .peach-after {
 	-webkit-animation:peach_alive linear 8s infinite;
@@ -1113,6 +1112,12 @@ audio {
 }
 #b7,#b77{
 	background-image: url('b7.png');
+}
+#b8,#b88{
+	background-image: url('b8.png');
+}
+#b9,#b99{
+	background-image: url('b9.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
